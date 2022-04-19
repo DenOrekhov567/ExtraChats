@@ -1,0 +1,7 @@
+---
+name: "ExtraChats"
+version: 0.1
+api: [4.0.0]
+
+main: ExtraChats\Loader
+...
